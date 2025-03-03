@@ -1,0 +1,24 @@
+.main-catalog{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between ;
+}
+.card{
+    width: 30%;
+    border: 5px solid green;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.card img{
+    width: 80%;
+}
+
+.card button{
+    width: 150px;
+    height: 75px;
+    color: white;
+    background-color: limegreen;
+}
