@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a559358-2266-4ec8-9ad8-e748823f4aca" name="Changes" comment="add templates">
-      <change afterPath="$PROJECT_DIR$/app/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/css/cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/css/cart.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/css/catalog.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/css/catalog.css" afterDir="false" />
+    <list default="true" id="4a559358-2266-4ec8-9ad8-e748823f4aca" name="Changes" comment="add mnogo">
+      <change afterPath="$PROJECT_DIR$/app/static/js/cabinet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/js/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dbCart.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/dbCart.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django42Cart/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django42Cart/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/cabinet.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cabinet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
@@ -29,6 +28,7 @@
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -78,6 +78,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\PycharmProjects\django42Cart\app\static\js" />
       <recent name="C:\Users\1\PycharmProjects\django42Cart\app" />
       <recent name="C:\Users\1\PycharmProjects\django42Cart\app\migrations\static" />
     </key>
@@ -129,7 +130,8 @@
       <workItem from="1740925716763" duration="20879000" />
       <workItem from="1741518180871" duration="24000" />
       <workItem from="1741522430050" duration="850000" />
-      <workItem from="1741526002646" duration="10938000" />
+      <workItem from="1741526002646" duration="11905000" />
+      <workItem from="1741622662332" duration="6810000" />
     </task>
     <task id="LOCAL-00001" summary="start1">
       <option name="closed" value="true" />
@@ -155,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741027164315</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add mnogo">
+      <option name="closed" value="true" />
+      <created>1741538619863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741538619863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +175,7 @@
     <MESSAGE value="start1" />
     <MESSAGE value="add models" />
     <MESSAGE value="add templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="add templates" />
+    <MESSAGE value="add mnogo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mnogo" />
   </component>
 </project>
